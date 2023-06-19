@@ -1,4 +1,5 @@
-### Hi there 👋
+### Liana Kan
+---
 
 <!--
 **lianaa98/lianaa98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Full-stack developer 💻
+* Javascript, ReactJS, HTML, CSS, Kotlin, SQL
+
+3D-modelling hobbyist 🌕
+* Blender
+
+Available for part-time contract work. Contact me at `liana.kan98@gmail.com`.
