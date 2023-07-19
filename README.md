@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
 Full-stack developer 💻
-* Javascript, ReactJS, HTML, CSS, Kotlin, SQL
+* Javascript, ReactJS, React-native, HTML, CSS, Bootstrap
+* Java, Kotlin, SQL, Spring Boot, Express.js
 
 3D-modelling hobbyist 🌕
 * Blender
