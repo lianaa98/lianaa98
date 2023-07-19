@@ -26,5 +26,3 @@ Full-stack developer 💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lianaa98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Available for full-time / part-time contract work. Contact me at `liana.kan98@gmail.com`.
-
-LinkedIn: ![LinkedIn](https://www.linkedin.com/in/lianakan/)
