@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 -->
 
 Full-stack developer 💻
-* Javascript, ReactJS, React-native, HTML, CSS, Bootstrap
-* Java, Kotlin, SQL, Spring Boot, Express.js
+* Javascript, ReactJS, React-native
+* Java, Kotlin, Spring Boot
+* Salesforce, Apex, Lightning web components
+* Ruby on Rails
 
 3D-modelling hobbyist 🌕
-* Blender
+* Blender, Three.js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lianaa98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
